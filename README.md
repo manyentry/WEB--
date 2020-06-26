@@ -1,2 +1,8 @@
-# WEB-real
-Javascript, CSS, HTML
+# 2020-06-26
+네번째 업데이트: 밤 모드를 개선함.
+
+개선한 점: 밤 모드를 사용했을때, 글씨가 하얀색으로 변했었는데,
+밤에 보기에는 눈이 아픈게 있는 것 같아서 글씨가 gray(회)색으로 변경되었습니다.
+
+!manyentry!
+엔트리 버리고 HTML, CSS, JAVASCRIPT(HTML의 <script>태그와 <input> 태그의 OnClick) 배우는 중입니다.
