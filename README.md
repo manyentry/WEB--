@@ -6,3 +6,6 @@
 
 !manyentry!
 엔트리 버리고 HTML, CSS, JAVASCRIPT(HTML의 <script>태그와 <input> 태그의 OnClick) 배우는 중입니다.
+  
+  (참고로 실제로 사용하라고 있는 것이 아닙니다.
+    배운걸 직접 해보는 식으로 제작하고 있습니다.)
